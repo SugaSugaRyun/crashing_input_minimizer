@@ -7,7 +7,7 @@ Install and Build
 -----
 To clone the repository you should have Git installed. Just run:
 
-    $ git clone 
+    $ git clone https://github.com/SugaSugaRyun/crashing_input_minimizer.git
 
 To build the library, run `make`. 
 
